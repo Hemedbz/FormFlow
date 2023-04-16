@@ -10,9 +10,12 @@ open source forms tool for colaberating and gathering information
 ### Contibutions:
 
 #### Implementations:
-Python3.11 | Django | mypy
-PostgreSQL 
-React.JS | Redux
-AWS | S3 | RDS
+Python3.11 | Django | MyPy  
+
+PostgreSQL  
+
+React.JS | Redux  
+
+AWS | EC2| S3 | RDS  
 
 
