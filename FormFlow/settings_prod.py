@@ -98,7 +98,7 @@ DATABASES = {
        'ENGINE': 'django.db.backends.postgresql',
        'NAME': 'formflow',
        'USER': 'postgres',
-       'PASSWORD': 'postgres',
+       'PASSWORD': open('../docs/pwd.txt').read(),
        'HOST': 'database-1.cmg7dtskfwxp.us-east-2.rds.amazonaws.com',
        'PORT': '5432',
    }
