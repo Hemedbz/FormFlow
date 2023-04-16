@@ -1,5 +1,5 @@
 # FormFlow
-open source forms tool for colaberating and gathering information
+open source forms tool for collaborating and gathering information
 
 ## WORK IN PROGRESS
 
